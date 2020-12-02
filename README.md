@@ -7,7 +7,7 @@ A replica of the popular guessing game 'Hangman'. Built with React JS.
  ```
  npm install
  ```
-3. Run Development Server
+3. Start Development Server
  ```
  npm start
  ```
